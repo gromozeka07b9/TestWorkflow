@@ -1,0 +1,5 @@
+/Users/gromozeka07b9/Projects/TestWorkflow/TestWorkflow/TestWorkflow/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gromozeka07b9/Projects/TestWorkflow/TestWorkflow/TestWorkflow/bin/Debug/TestWorkflow.exe.mdb
+/Users/gromozeka07b9/Projects/TestWorkflow/TestWorkflow/TestWorkflow/bin/Debug/TestWorkflow.exe
+/Users/gromozeka07b9/Projects/TestWorkflow/TestWorkflow/TestWorkflow/obj/x86/Debug/TestWorkflow.exe
+/Users/gromozeka07b9/Projects/TestWorkflow/TestWorkflow/TestWorkflow/obj/x86/Debug/TestWorkflow.exe.mdb
