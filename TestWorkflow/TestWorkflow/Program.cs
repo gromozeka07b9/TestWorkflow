@@ -6,7 +6,7 @@ namespace TestWorkflow
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("dog");
+			Console.WriteLine ("cat");
 		}
 	}
 }
