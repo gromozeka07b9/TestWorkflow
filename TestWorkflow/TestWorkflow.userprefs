@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestWorkflow/Program.cs">
+    <Files>
+      <File FileName="TestWorkflow/Program.cs" Line="27" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../ScrumHelper/ScrumHelper/ScrumHelper.Core\DataAccessLayer\Repository.cs" line="64" offsetX="526" offsetY="1449" expression="me.db.GetItems&lt;Project&gt;()" liveUpdate="False" />
+    <Watch file="../../ScrumHelper/ScrumHelper/ScrumHelper.Core\DataAccessLayer\Repository.cs" line="64" offsetX="526" offsetY="1449" expression="ScrumHelper.BL.Project" liveUpdate="False" />
+    <Watch file="../../ScrumHelper/ScrumHelper/c:\xamarin\ScrumHelper\ScrumHelper\ScrumHelper.Core\DataLayer\SQLite.cs" line="1561" offsetX="986" offsetY="35880" expression="expr" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
